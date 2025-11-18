@@ -43,5 +43,4 @@ This Tableau project explores employment trends across the UK from 2011 to 2014 
 - Microsoft Excel (for initial data cleaning and preparation)
 
 ## My Dashboard
-[Link to my Dashboard](https://public.tableau.com/views/UKEmploymentDashboard_17416906959140/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
+[Link to My Dashboard](https://public.tableau.com/views/EploymentDataset_17604339344170/UKEmploymentData?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
